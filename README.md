@@ -77,3 +77,16 @@ from .demoFunc import addNumbers, subNumbers
 
 In color:
 ![Init image](/images/06A-init.png)
+
+## 7. Add ```.DS_Store``` to your ```.gitignore``` file.
+
+## 8. Commit and Push your Remote to Origin
+
+## 9. In a ```Jupyter notebook``` run the following:
+
+```pip install git+https://github.com/full-address-to-repo.git```
+
+Note the **git+** and the **.git**
+
+## 10. Finally, import your functions:
+![import functions image](/images/10A-import.png)
