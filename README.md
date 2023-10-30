@@ -1,1 +1,1 @@
-# Creating your own ```pip install``` packages
+# Creating your own ```pip install``` package
