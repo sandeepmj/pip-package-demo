@@ -90,3 +90,5 @@ Note the **git+** and the **.git**
 
 ## 10. Finally, import your functions:
 ![import functions image](/images/10A-import.png)
+
+When you invariably have to fix or update your functions (or add a new function), you will need to increment the version number in the ```setup.py``` file. **If you don't...it won't work!**
