@@ -28,7 +28,7 @@
 ![Reveal hiddens files and folder](/images/03B-organization.png)
 
 ## 4. Prepare ```setup.py``` file
-#### Enter the following code into your ```setup.py``` file:
+#### Copy, paste and update the following code into your ```setup.py``` file:
 
 ```
 import setuptools
@@ -56,3 +56,24 @@ setuptools.setup(
 
 In color:
 ![Clone 4 setup](/images/04-setup.png)
+
+## 5. Inside the folder you created in step 3:
+
+- Create a file which will hold your function. Name it something short that alludes to the purpose of the functions it holds, like```mathFuncs.py```
+
+- Write some functions in that file:
+
+![Functions image](/images/05A-fucntions.png)
+
+## 6. Inside the same folder:
+
+- Create a file called ```__init__.py``` (**exactly that name!**) 
+- In that file, we'll called the functions you wrote in your functions file.
+
+```
+## .demoFunc refers to file that holds all the functions
+from .demoFunc import addNumbers, subNumbers
+```
+
+In color:
+![Init image](/images/06A-init.png)
