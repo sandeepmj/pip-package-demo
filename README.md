@@ -16,7 +16,7 @@
 ![Clone 1 image](/images/02A-clone.png)
 
 - Hit clone:
-![Clone 2 image](/images/02b-clone.png)
+![Clone 2 image](/images/02B-clone.png)
 
 ## 3. Create a directory and ```setup.py``` file
 - Your clone will look like this:
@@ -52,9 +52,7 @@ setuptools.setup(
     packages=['demo'], ## name of folder that holds the functions
     install_requires=[], ## names of packages required to run your functions
 )
-
-
-
 ```
 
-
+In color:
+![Clone 4 setup](/images/04-setup.png)
