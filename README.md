@@ -1,6 +1,6 @@
 # Creating your own ```pip install``` package
 
-Before you proceed, please sure your Macs have a recent version of xCode's CLT. You do not need the entire xCode application – just the CLT. Here are the ![instructions to install](https://www.freecodecamp.org/news/install-xcode-command-line-tools/).
+Before you proceed, please sure your Macs have a recent version of xCode's CLT. You do not need the entire xCode application – just the CLT. Here are the <a href="https://www.freecodecamp.org/news/install-xcode-command-line-tools/">instructions to install</a>.
 
 ## 1. Create a ```GitHub repo```
 
